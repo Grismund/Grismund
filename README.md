@@ -1,4 +1,4 @@
-<img align= "center" height="500px" width="1000px" src="./grismund-banner.JPG"/>
+<img align= "center" src="./grismund-banner.JPG"/>
 
 <table align= "center">
     <tr>
