@@ -45,8 +45,12 @@
     </tr>
 </table>
 
-<h2  style="margin-top:12px">
-    CONTACT
+</br>
+</br>
+</br>
+
+<h2  style="margin-top:12px" align= "center">
+    Contact
 </h2>
 
 <table align= "center">
@@ -59,7 +63,9 @@
     </td>
 </table>
 
-
+</br>
+</br>
+</br>
 
 <h2 align="center">Repositories</h2>
 
