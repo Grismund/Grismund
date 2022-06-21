@@ -88,6 +88,31 @@
     </a>
 </div>
 
+<div width="100%" align="center">
+    <img align="left"height="300px" src="project-nhl.PNG"/>
+    </br>
+    </br>
+    <p>This website gathers data from two RESTful API endpoints and creates a sortable list of NHL teams, some info, their stats, and links to their websites.</p>
+    <a
+        align="center" 
+        href="https://nhl-team-info.netlify.app/" 
+        title="NHL Team Info: Live Site"
+        target="_blank" rel="noopener noreferrer"
+        >Live Site
+    </a>
+        </br>
+        </br>
+    <a
+        align="center" 
+        href="https://github.com/Grismund/NHL-Team-Data" 
+        title="NHL Team Info: Front End Code"
+        target="_blank" rel="noopener noreferrer"
+        >Front End Code
+    </a>
+        </br>
+        </br>
+</div>
+
 
 <h3 align="center" marginTop="40px">
     <a href="https://github.com/Grismund?tab=repositories" title="Show Repositories" target="_blank" rel="noopener noreferrer">Show More</a>
