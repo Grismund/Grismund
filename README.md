@@ -57,9 +57,12 @@
 <h2 align="center">Repositories</h2>
 
 <div width="100%" align="center">
-    <img align="left"height="300px" src="project-open-art.PNG"/>
+    <img align="left" height="300px" src="project-open-art.PNG"/>
     </br>
     </br>
+</div>
+
+<div height="300px"  width="100%">
     <p>This website searches The Art Institute of Chicago's database. View the README file for details.</p>
     <a
         align="center" 
@@ -99,6 +102,9 @@
     <img align="left"height="300px" src="project-nhl.PNG"/>
     </br>
     </br>
+</div>
+
+<div height="300px"  width="100%">
     <p>This website gathers data from two RESTful API endpoints and creates a sortable list of NHL teams, some info, their stats, and links to their websites.</p>
     <a
         align="center" 
