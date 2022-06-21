@@ -88,11 +88,12 @@
     </a>
 </div>
 
-<div></div>
+<div  width="100%" align="center">
+    </br>
+    </br>
+    </br>
+</div>
 
-</br>
-</br>
-</br>
 
 <div width="100%" align="center">
     <img align="left"height="300px" src="project-nhl.PNG"/>
