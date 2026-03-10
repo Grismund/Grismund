@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/seth-faerber/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:sethfaerber@yahoo.com">
+    <a href="mailto:sethf.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square" />
